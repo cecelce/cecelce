@@ -1,4 +1,4 @@
-Soy un Programador amateur, iniciando un camino junto a Python.
+Soy un Programador amateur
 
 <!--
 **cecelce/cecelce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
